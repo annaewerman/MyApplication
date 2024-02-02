@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Hello Sensor!</string>
+    <string name="button1">Accelerometer</string>
+    <string name="button2">Lutning/Skak-sensor</string>
+    <string name="Home">Gå tillbaka</string>
+    <string name="värden">Accelerometer värden:</string>
 </resources>
